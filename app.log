@@ -69,3 +69,5 @@ INFO:root:Prediction success: 0
 INFO:werkzeug:127.0.0.1 - - [08/Jun/2026 15:45:12] "POST /predict HTTP/1.1" 200 -
 INFO:werkzeug: * Detected change in 'C:\\Users\\Seethalakshmi.m\\Desktop\\MLOPS-AIOPS Demo\\test_predict.py', reloading
 INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 534-015-284
